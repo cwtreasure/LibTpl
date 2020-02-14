@@ -1,0 +1,15 @@
+{
+    "author": "Catcher Wong",
+    "classifications": [
+        "Common/Library"
+    ],
+    "name": "CW.LibTpl",
+    "identity": "CW.LibTpl",
+    "shortName": "libtpl",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "sourceName": "LibTpl",
+    "preferNameDirectory": true
+}
