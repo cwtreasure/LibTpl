@@ -13,4 +13,4 @@ Get-ChildItem ./content\*\*\obj | ForEach-Object {
     Remove-Item $_.FullName -recurse -force
 }
 
-./nuget.exe pack  ./content/CW.ApiTpl.nuspec -Exclude ".vs" -OutputDirectory ./bin 
+./nuget.exe pack  ./content/CW.LibTpl.nuspec -Exclude ".vs" -OutputDirectory ./bin 
